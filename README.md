@@ -214,7 +214,7 @@ VLA_adapter/
 ### 5.1 安装依赖
 
 ```bash
-cd LLM/VLA_adapter
+cd VLA_adapter
 
 # 基础依赖 (使用模拟backbone, 无需联网)
 pip install -r requirements.txt
